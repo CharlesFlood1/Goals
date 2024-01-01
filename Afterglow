@@ -1,0 +1,98 @@
+
+1. Go to Adorra in 'The Grand Foyer' (38141) and say 'More' for some dialog.
+2. Say 'Yes' to open tasks 1 and 2.
+
+Task 1: Have your name scribed into the Tome of the Relyks
+1. Complete tasks 2 - 11.
+
+Task 2: Speak to Kiden the chef
+1. Go to Kiden in 'The Master Kitchen' (38191) and say 'I want to help.' to close task and open task 3.
+
+Task 3: Help Kiden play a prank on Master Nystaulyk
+1. Go to the Master Craftsman in 'The Workshop' (38231) and 'look workbench;open workbench;get all workbench' for a key mold.
+2. Find and kill these mobs for their respective items (all are on a five-minute timer):
+A. Wandering near 'Eastern Woods' (38178):
+i. A mud wasp queen for a mud wasp stinger.
+ii. A black crow for a crow's beak.
+iii. A brown bear for a bear claw.
+iv. A wolf for a wolf fang.
+v. A black boar for a boar tusk.
+vi. A scorpion for a scorpion stinger.
+B. Wandering near 'Western Woods' (38145):
+i. A pit viper for a snake fang.
+ii. A grey eagle for an eagle talon.
+3. Put all the items in the key mold.
+4. Return to the Master Craftsman in 'The Workshop' (38231) and 'give mold craftsman' for a segmented key.
+5. Find and kill a cleaning servant for a servant's face.
+6. 'Wear face' to wear a servant's face and go to 'The Dome' (38230).
+7. Say 'yes' to be transferred to 'The Deadman' (38229).
+8. Say 'West' to be transferred to 'Tooth and Nail' (38228).
+9. Kill the sentry chief for the vault key.
+A. Warning: This room is tough.
+B. Enter just after repop and retreat to the rooms north, west, and south from 'Tooth and nail'. Clear all archers from these rooms.
+i. Archers cannot be banished/disintegrated/etc., but warlords can.
+C. Once archers are cleared, the center room is much easier to clear. Kill all mobs for the key.
+10. Run s;open w;run w to 'The Upper Vault' (38233) and 'open safe;get all safe' for a painting of Grandmaster Mage Nystaulyk and a <>signet ring.
+11. Run d;open w;run ws;open s;run s to 'the Master's Quarters' (38217) and 'look diary;read diary' to open task 4.
+12. Complete tasks 4 - 7.
+
+Task 4: Return to Kiden to talk about the diary
+1. Return to Kiden in 'The Master Kitchen' (38191) and say 'Diary' to close task and open task 5.
+
+Task 5: Investigate Kiden's nursery rhyme further
+1. Go to 'The Cave' (38219) and 'read wall' when the white moon is up to close task and open task 6.
+
+Task 6: Return to the master's quarters to read the diary
+1. Return to 'the Master's Quarters' (38217) and 'read diary' to close task and open task 7.
+
+Task 7: Forge a letter using master Nystaulyk's handwriting.
+1. In 'The Master's Quarters', 'forge letter' to receive a forged letter and update task with a hint.
+2. Return to Kiden in 'The Master Kitchen' (38191) and 'give letter Kiden' to close tasks 4 and 7 and open task 8.
+
+Task 8: Bring a special piece of amber to Kiden
+1. Go to 'The Showcase' (38232) and 'open showcase;get all showcase' for a <>Relyk<> medallion and a chunk of amber.
+2. Return to Kiden in 'The Master Kitchen' (38191) and 'give amber Kiden' to close task and open task 9.
+
+Task 9: Retrieve a skin and bones to make a dragon statue
+1. Go to Ohran the butcher in 'The Butcher House' (38167) and 'buy skin' for a dragon skin.
+2. Find and kill dragons in eastern and western woods for dragon bones.
+3. Go to Ferron in 'The Furnace' (38151) and 'give bone ferron' for a random part of a dragon skeleton.
+4. Repeat steps 2 and 3 until you have the following 24 items:
+A. dragon horns
+B. dragon skull
+C. dragon teeth
+D. dragon fangs
+E. dragon jawbone
+F. dragon neckbone
+G. dragon vertebrae
+H. dragon right shoulder
+I. dragon left shoulder
+J. dragon front legs
+K. dragon front feet
+L. dragon talons
+M. dragon backbone
+N. dragon tailbone
+O. dragon wings
+P. dragon spines
+Q. dragon sternum
+R. dragon breastbone
+S. dragon ribs
+T. dragon pelvis
+U. dragon hind legs
+V. dragon right knee
+W. dragon left knee
+X. dragon hind feet
+5. 'Put all.bone skin' to put all 24 items in a dragon skin.
+6. Return to Kiden in 'The Master Kitchen' (38191) and 'give skin Kiden' to close task and open task 10.
+
+Task 10: Help Kiden install the dragon statue in his quarters
+1. Say 'yes' to be attacked by Kiden the Nightshifter and a dark dragon.
+2. Kill the dragon, Kiden, and a dark phase to close task and open task 11.
+
+Task 11: let Grandmaster mage Nystaulyk know that Kiden is dead
+1. Go to Grandmaster Mage Nystaulyk in 'The War Room' (38213) and say 'Kiden is dead.' to close the goal.
+
+Rewards:
+1. Tome of the Relyks (201 weapon [mental]: 20DR, 14HR)
+2. <>Deep Reflections<> (201 neck: 21DR, 13HR, 4STR, 4DEX, 4CON, 2LCK, 11allphys, 8allmagic, 6light, -3negative, -3water)
+3. <>Storms of a White Moon<> (201 ear: 21DR, 13HR, 2CON, 4INT, 4WIS, 4LCK, 11allphys, 8allmagic, -3cold, -3earth, 6fire)
